@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "prpduct-app"
+  "defaultProject": "prpduct-app",
+  "cli": {
+    "analytics": "8c79932d-6869-4859-9e28-f0d443a28e07"
+  }
 }
